@@ -13,4 +13,4 @@ request.get(process.argv[2], function (err, resp, body) {
     }
     console.log(count);
   }
-});
+};
